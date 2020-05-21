@@ -1,0 +1,227 @@
+@media screen and  (max-width: 1080px)
+{
+
+
+a {
+    text-decoration: none;
+}
+
+* {
+    margin: auto;
+}
+
+li {
+    list-style: none;
+}
+
+.top {
+  width: 100%;
+}
+
+.topcontents {
+  width: 80%;
+  height: 50px;
+}
+
+.topcontents ul {
+  float: right;
+}
+
+.topcontents li {
+  float: left;
+  color: #A7978D;
+  margin-right: 40px;
+  margin-top: 20px;
+  border-bottom: 2px solid #A7978D;
+}
+
+header {
+  width: 100%;
+}
+
+.headercontents {
+  width: 80%;
+  height: 500px;
+}
+
+.header1 {
+  height: 250px;
+  padding-top: 70px;
+}
+
+.header1left {
+  width: 20%;
+  float: left;
+}
+
+.header1left img {
+  height: 200px;
+}
+
+.header1center {
+  width: 40%;
+  float: left;
+  padding-left: 80px;
+  padding-top: 20px;
+}
+
+.name {
+  font-size: 40px;
+  font-family:  sans-serif;
+  font-weight: lighter;
+}
+
+.job{
+  font-size: 30px;
+  font-family: 'Kalam', cursive;
+}
+
+.header1right {
+  width: 20%;
+  float: right;
+  margin-right: 30px;
+}
+
+.header1right img {
+  height: 200px;
+}
+
+.header2 {
+  height: 250px;
+}
+
+.header2left {
+  width: 40%;
+  float: left;
+}
+
+.header2center {
+  width: 40%;
+  float: left;
+  padding-left: 40px;
+}
+
+.header2right {
+  float: right;
+  margin-top: 30px;
+}
+
+.header2right img {
+  height: 100px;
+}
+
+.main {
+  width: 100%;
+  border-top: 1px solid #A7978D;
+  margin-top: 50px;
+}
+
+.maincontents {
+  height: 1100px;
+  text-align: center;
+}
+
+.maincontents h3 {
+  font-size: 30px;
+  color: #A7978D;
+  margin-bottom: 30px;
+  margin-top: 50px;
+}
+
+.workswrapper {
+  background-color: #F9ECE5;
+  height: 800px;
+}
+
+.works {
+  width: 90%;
+}
+
+.works1 {
+  padding-top: 50px;
+}
+
+.mainleft {
+  float: left;
+}
+
+.mainleft img {
+  height: 310px;
+}
+
+.mainright4 img {
+  height: 150px;
+}
+
+.img3 {
+  padding-top: 3px;
+}
+
+.img4 {
+  padding-top: 3px;
+}
+
+
+.works2 {
+  padding-top: 50px;
+}
+
+.mainright2 img {
+  height: 310px;
+}
+
+.view {
+  margin-top: 50px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #A7978D;
+}
+
+.contact {
+  width: 100%;
+}
+
+.contactcontents {
+  width: 90%;
+  height: 370px;
+}
+
+.contactcenter {
+  text-align: center;
+}
+
+.contactcenter h3 {
+  font-size: 30px;
+  color: #A7978D;
+  margin-bottom: 30px;
+}
+
+h4 {
+  font-weight: lighter;
+}
+
+.contactformbtn input{
+  width: 400px;
+  margin-top: 50px;
+  background-color: #A7978D;
+  font-size: 30px;
+  height: 50px;
+}
+
+footer {
+  width: 100%;
+}
+
+.footerright img {
+  height: 100px;
+  margin-top: -20px;
+}
+
+.footerright {
+  margin-left: 700px;
+}
+
+.footerright p {
+  float: left;
+}
+
+}
