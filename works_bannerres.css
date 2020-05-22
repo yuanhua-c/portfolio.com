@@ -1,0 +1,189 @@
+@media screen and  (max-width: 1080px)
+{
+
+
+a {
+    text-decoration: none;
+}
+
+* {
+    margin: auto;
+}
+
+li {
+    list-style: none;
+}
+
+.top {
+  width: 100%;
+  background-color: #A7978D;
+  position: fixed;
+  top:0;
+  z-index: 100;
+}
+
+.topcontents {
+  width: 80%;
+  height: 100px;
+}
+
+.topcontents ul {
+  float: right;
+}
+
+.topcontents li {
+  float: left;
+  color: white;
+  margin-right: 60px;
+  margin-top: 20px;
+  font-size: 40px;
+}
+
+footer {
+  width: 100%;
+  margin-top: 3900px;
+}
+
+.footerright {
+  float: right;
+  margin-right: 30px;
+}
+
+.footerright p {
+  float: left;
+  font-size: 20px;
+}
+
+.footerright img {
+  height: 150px;
+  margin-top: -30px;
+}
+
+h3 {
+  margin-top: 30px;
+  margin-bottom: 5px;
+  font-size: 60px;
+  color: #A7978D;
+  margin-right: 70px;
+  text-align: center;
+}
+
+.maintitle {
+  margin-bottom: 30px;
+  display: inline-block;
+  color: #A7978D;
+  font-size: 40px;
+  margin-left: 550px;
+}
+
+.works {
+  width: 100%;
+  height: 2000px;
+  margin-top: 150px;
+}
+
+.worksmain {
+  width: 1080px;
+  margin: auto;
+  position: relative;
+}
+
+.workscontents {
+  margin-top: 30px;
+}
+
+.worksleft {
+  width: 200px;
+  height: 5500px;
+  float: left;
+}
+
+.worksleft ul {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 100px;
+  margin-right: 50px;
+  border: 2px solid #A7978D;
+  width: 100%;
+  margin-left: 20px;
+}
+
+.worksleft ul {
+padding-inline-start: 0px;
+}
+
+.worksleft a {
+  font-size: 18px;
+  margin: 25px 0 ;
+  display: inline-block;
+  color: #404040;
+  text-align: left;
+  padding-left: 10px;
+}
+
+.listtitle {
+  padding: 10px 5px;
+  font-size: 24px;
+  color: #404040;
+  text-align: center;
+}
+
+.worksright {
+  width: 700px;
+  height: 500px;
+  text-align: center;
+  margin-right: 80px;
+}
+
+.worksright h4 {
+  font-size: 40px;
+  color: white;
+  background-color: #E1CDC0;
+  width: 600px;
+  padding: 10px 30px;
+  margin-bottom: 60px;
+}
+
+.worksright h5 {
+  font-size: 36px;
+  color: #A7978D;
+  margin-bottom: 30px;
+  border-bottom: 3px solid #A7978D;
+  border-top: 3px solid #A7978D;
+  width: 640px;
+}
+
+.worksright p {
+  height: 200px;
+  width: 600px;
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.worksright2 {
+  text-align: center;
+}
+
+.worksright2 h5 {
+  margin-top: 30px;
+}
+
+.memo {
+  text-align: left;
+  margin-left: 60px;
+　color: #404040;
+  margin-bottom: 100px;
+  font-size: 28px;
+}
+
+.webview {
+  height: 50px;
+}
+
+.worksright img {
+  width: 90%;
+}
+
+
+}
