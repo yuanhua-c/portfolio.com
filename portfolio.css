@@ -152,7 +152,7 @@ header {
 }
 
 .works {
-  height: 750px;
+  height: 820px;
   padding-left: 180px;
   padding-right: 180px;
   width: 1080px;
@@ -160,10 +160,12 @@ header {
 
 .mainleft {
   float: left;
+  height: 100%;
 }
 
 .mainleft img {
   margin-top: 50px;
+  height: 90%;
 }
 
 .mainright4 {
@@ -175,16 +177,24 @@ header {
 .mainright4 img {
   width: 40%;
   margin-left: 10px;
+  height: 50%;
+}
+
+.img3, .img4 {
+  padding-top: 18px;
 }
 
 .mainright2 {
   float: right;
-  margin-top: 20px;
-  margin-right: 35px;
+  margin-top: 40px;
+  width: 40%;
+  margin-right: 40px;
+  margin-left: 40px;
 }
 
 .mainright2 img {
-  margin-left: 10px;
+  margin-left: 20px;
+  width: 43%;
 }
 
 .works1 {
@@ -193,6 +203,7 @@ header {
 
 .works2 {
   height: 360px;
+  width: 1080px;
 }
 
 .view {
@@ -216,7 +227,13 @@ header {
 }
 
 .web3 {
-  margin-top: -30px;
+  margin-top: 0px;
+  width: 48%;
+}
+
+.web3 img {
+  width: 100%;
+  float: left;
 }
 
 .contactcontents {
