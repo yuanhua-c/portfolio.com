@@ -26,7 +26,6 @@ li {
   height: 100px;
 }
 
-    
 .topcontents ul {
   float: right;
 }
@@ -133,7 +132,7 @@ header {
 
 .workswrapper {
   background-color: #F9ECE5;
-  height: 1900px;
+  height: 1820px;
 }
 
 .works {
@@ -174,7 +173,7 @@ header {
 
 
 .works2 {
- margin-top: 50px;
+ margin-top: 70px;
 }
 
 .mainright2 {
@@ -199,7 +198,7 @@ header {
 
 .contact {
   width: 100%;
-  margin-top: 1200px;
+  margin-top: 1120px;
 }
 
 .contactcontents {
