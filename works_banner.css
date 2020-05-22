@@ -1,3 +1,6 @@
+@media screen and  (min-width: 1080px)
+{
+
 a {
   text-decoration: none;
 }
@@ -174,3 +177,4 @@ h5 {
   padding-bottom: 50px;
 }
 
+}
