@@ -150,17 +150,17 @@ header {
 }
 
 .mainleft img {
-  width: 100%;
+  width: 70%;
 }
 
 .mainright4 {
   width: 90%;
   margin-top: 80px;
+  text-align: center;
 }
 
 .mainright4 img {
-  width: 50%;
-  float: left;
+  width: 35%;
 }
 
 .img3 {
