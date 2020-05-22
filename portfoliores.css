@@ -198,7 +198,7 @@ header {
 
 .contact {
   width: 100%;
-  margin-top: 1700px;
+  margin-top: 1650px;
 }
 
 .contactcontents {
@@ -211,7 +211,7 @@ header {
 }
 
 .contactcenter h3 {
-  font-size: 30px;
+  font-size: 60px;
   color: #A7978D;
   margin-bottom: 30px;
 }
