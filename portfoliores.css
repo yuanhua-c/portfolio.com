@@ -132,7 +132,7 @@ header {
 
 .workswrapper {
   background-color: #F9ECE5;
-  height: 2000px;
+  height: 1900px;
 }
 
 .works {
@@ -179,11 +179,11 @@ header {
 .mainright2 {
   width: 90%;
   margin-top: 80px;
+  text-align: center;
 }
 
 .mainright2 img {
-  width: 50%;
-  float: left;
+  width: 35%;
 }
 
 .view {
@@ -198,7 +198,7 @@ header {
 
 .contact {
   width: 100%;
-  margin-top: 1300px;
+  margin-top: 1200px;
 }
 
 .contactcontents {
@@ -218,6 +218,7 @@ header {
 
 h4 {
   font-weight: lighter;
+  font-size: 35px;
 }
 
 .contactformbtn input{
